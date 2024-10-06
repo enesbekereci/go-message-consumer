@@ -1,0 +1,4 @@
+rabbit,localhost,5672,add,auth
+rabbit,localhost,5672,sub,auth
+mqtt,localhost,1883,mul,admin:public
+mqtt,localhost,1883,div,admin:public
